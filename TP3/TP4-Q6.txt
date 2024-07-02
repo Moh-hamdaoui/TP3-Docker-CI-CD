@@ -1,0 +1,4 @@
+Prochaines etapes : 
+    Deploiyement reel de l'application AWS, Cloud.. ?
+    Automatisation de déploiement vers le serveur de production : déploiement blue/green 
+    Surveillance et alertes
