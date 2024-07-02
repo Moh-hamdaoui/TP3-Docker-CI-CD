@@ -5,8 +5,7 @@ const app = express();
 
 app.use(appRouter);
 
-app.get('/', (req, res) => {
-    res.send('Hello World!');
-  });
+console.log('Hello, world!');
+
 
 module.exports = app;
